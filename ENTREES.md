@@ -10,5 +10,5 @@
 | $17.99   | Fettuccine Alfredo       | Fettuccine pasta tossed in a creamy sauce made with butter, parmesan cheese, and heavy cream.             |
 | $22.99   | Jim's Special Pizza      | A signature pizza with a variety of toppings including pepperoni, sausage, mushrooms, onions, peppers, and mozzarella cheese. |
 | $23.99   | Seafood Risotto          | Creamy arborio rice cooked with a medley of seafood such as shrimp, scallops, and calamari, flavored with garlic and white wine. |
-| $24.99   | Veal Marsala             | Tender veal cutlets cooked in a Marsala wine sauce with mushrooms and served with a side of pasta.        |
+| $27.99   | Veal Marsala             | Tender veal cutlets cooked in a Marsala wine sauce with mushrooms and served with a side of pasta.        |
 | $22.99   | Shrimp Scampi            | Succulent shrimp cooked in garlic butter and white wine sauce, served over a bed of linguine pasta.      |
